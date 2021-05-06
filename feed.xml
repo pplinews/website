@@ -3,16 +3,16 @@
     <title>PPLI NEWS - RSS</title>
     <link href="https://pplinews.github.io/website/feed.xml" rel="self" />
     <link href="https://pplinews.github.io/website" />
-    <updated>2021-05-06T22:00:16+02:00</updated>
+    <updated>2021-05-06T22:37:44+02:00</updated>
     <author>
-        <name>Rubén Santiago Yuste</name>
+        <name>Rubén Santiago</name>
     </author>
     <id>https://pplinews.github.io/website</id>
 
     <entry>
         <title>Feed de Telegram</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/feed-de-telegram/"/>
         <id>https://pplinews.github.io/website/feed-de-telegram/</id>
@@ -28,7 +28,7 @@
     <entry>
         <title>Resultados Hockey</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/resultados-hockey/"/>
         <id>https://pplinews.github.io/website/resultados-hockey/</id>
@@ -60,7 +60,7 @@
     <entry>
         <title>Resultados Baloncesto</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/resultados-baloncesto/"/>
         <id>https://pplinews.github.io/website/resultados-baloncesto/</id>
@@ -107,7 +107,7 @@
     <entry>
         <title>Resultados Fútbol Sala</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/resultados-futbol-sala/"/>
         <id>https://pplinews.github.io/website/resultados-futbol-sala/</id>
@@ -169,7 +169,7 @@
     <entry>
         <title>Resultados Fútbol</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/resultados-futbol/"/>
         <id>https://pplinews.github.io/website/resultados-futbol/</id>
@@ -237,7 +237,7 @@
     <entry>
         <title>Resultados Deportivos</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/resultados-deportivos/"/>
         <id>https://pplinews.github.io/website/resultados-deportivos/</id>
@@ -262,7 +262,7 @@
     <entry>
         <title>Libertad de informar y de expresión</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/libertad-de-informar-y-de-expresion/"/>
         <id>https://pplinews.github.io/website/libertad-de-informar-y-de-expresion/</id>
@@ -485,7 +485,7 @@
     <entry>
         <title>Tienda</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/tienda/"/>
         <id>https://pplinews.github.io/website/tienda/</id>
@@ -514,7 +514,7 @@
     <entry>
         <title>Fake News</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/fake-news/"/>
         <id>https://pplinews.github.io/website/fake-news/</id>
@@ -543,7 +543,7 @@
     <entry>
         <title>Sobre Nosotros</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/sobre-nosotros/"/>
         <id>https://pplinews.github.io/website/sobre-nosotros/</id>
@@ -589,7 +589,7 @@
     <entry>
         <title>Brotes activos Covid-19</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/brotes-activos-covid-19/"/>
         <id>https://pplinews.github.io/website/brotes-activos-covid-19/</id>
@@ -615,7 +615,7 @@
     <entry>
         <title>El Tiempo</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/el-tiempo/"/>
         <id>https://pplinews.github.io/website/el-tiempo/</id>
@@ -631,7 +631,7 @@
     <entry>
         <title>La Bolsa</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/la-bolsa/"/>
         <id>https://pplinews.github.io/website/la-bolsa/</id>
@@ -653,7 +653,7 @@
     <entry>
         <title>PODCAST</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/podcast/"/>
         <id>https://pplinews.github.io/website/podcast/</id>
@@ -669,7 +669,7 @@
     <entry>
         <title>Aviso Legal</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/aviso-legal/"/>
         <id>https://pplinews.github.io/website/aviso-legal/</id>
@@ -732,22 +732,22 @@
     <entry>
         <title>MADRID: Díaz Ayuso preside la reunión del Consejo de Gobierno en la Real Casa de Correos</title>
         <author>
-            <name>Rubén Santiago Yuste</name>
+            <name>Rubén Santiago</name>
         </author>
         <link href="https://pplinews.github.io/website/madrid-diaz-ayuso-preside-la-reunion-del-consejo-de-gobierno-en-la-real-casa-de-correos/"/>
         <id>https://pplinews.github.io/website/madrid-diaz-ayuso-preside-la-reunion-del-consejo-de-gobierno-en-la-real-casa-de-correos/</id>
             <category term="Política"/>
 
-        <updated>2021-05-06T22:00:16+02:00</updated>
+        <updated>2021-05-06T22:37:44+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pplinews.github.io/website/media/posts/1/_dpz0293-2.jpeg" alt="" />
+                        <img src="https://pplinews.github.io/website/media/posts/1/_dpz0293.jpg" alt="" />
                      La presidenta en funciones de la Comunidad de Madrid, Isabel Díaz Ayuso, ha presidido hoy la primera reunión del Consejo de Gobierno tras la celebración este martes de las elecciones a la Asamblea autonómica. Ha sido, como es habitual, en la Real Casa de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://pplinews.github.io/website/media/posts/1/_dpz0293-2.jpeg" alt="" />
+                    <img src="https://pplinews.github.io/website/media/posts/1/_dpz0293.jpg" alt="" />
                 <div>
 <h4>La presidenta en funciones de la Comunidad de Madrid, Isabel Díaz Ayuso, ha presidido hoy la primera reunión del Consejo de Gobierno tras la celebración este martes de las elecciones a la Asamblea autonómica. Ha sido, como es habitual, en la Real Casa de Correos, y en la misma han abordado durante dos horas los temas ordinarios de la semana correspondientes a las distintas consejerías del Ejecutivo regional.</h4>
 </div>
